@@ -6,6 +6,6 @@
   "author": "wolfstark",
   "license": "MIT",
   "scripts": {
-    "docs": "docute ./docs --port 8087"
+    "docs": "docsify serve docs -o -p 8888"
   }
 }
