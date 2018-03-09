@@ -1,3 +1,3 @@
-# Headline
+# CMUI
 
 > An awesome project.
