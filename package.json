@@ -1,0 +1,11 @@
+{
+  "name": "cmui",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/wolfstark/cmui.git",
+  "author": "wolfstark",
+  "license": "MIT",
+  "scripts": {
+    "docs": "docute ./docs --port 8087"
+  }
+}
